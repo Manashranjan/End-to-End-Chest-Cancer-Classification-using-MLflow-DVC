@@ -1,5 +1,22 @@
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
+This project is an **end-to-end pipeline** for predicting chest cancer using **deep learning (VGG16)** integrated with **MLOps practices** such as **DVC, MLflow, Docker, and CI/CD on AWS**.  
+
+---
+
+## 🚀 Features
+- Chest X-ray data ingestion and versioning with **DVC**
+- Preprocessing & augmentation for better generalization
+- **Transfer Learning with VGG16** for cancer classification
+- Experiment tracking using **MLflow**
+- Automated CI/CD with **GitHub Actions**
+- Model deployment on **AWS EC2/S3** with Docker + Flask/FastAPI
+
+---
+
+## 📂 Project Structure
+
+
 ## Workflows
 1.	Update config.yaml
 2.	Update secrets.yaml[Optional]
