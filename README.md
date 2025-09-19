@@ -13,12 +13,13 @@ This project is an **end-to-end pipeline** for predicting chest cancer using **d
 - Model deployment on **AWS EC2/S3** with Docker + Flask/FastAPI
 
 ---
+In the example below, a **normal chest X-ray** was uploaded to the model, and it correctly predicted the result as **Normal** ✅.
 <h2>🎯 Sample Prediction</h2>
 
 <p align="center">
   <img src="images/Screenshot (61).png" alt="Sample Prediction" width="500"/>
 </p>
-In the above screenshot, I uploaded an normal chest image and the model predicted normal.
+
 
 ## 📂 Project Structure
 
