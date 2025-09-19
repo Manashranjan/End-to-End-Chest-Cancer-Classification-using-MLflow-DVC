@@ -13,6 +13,12 @@ This project is an **end-to-end pipeline** for predicting chest cancer using **d
 - Model deployment on **AWS EC2/S3** with Docker + Flask/FastAPI
 
 ---
+<h2>🎯 Sample Prediction</h2>
+
+<p align="center">
+  <img src="images/Screenshot (61).png" alt="Sample Prediction" width="500"/>
+</p>
+
 
 ## 📂 Project Structure
 
