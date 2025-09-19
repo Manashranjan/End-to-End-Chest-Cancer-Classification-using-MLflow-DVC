@@ -18,7 +18,7 @@ This project is an **end-to-end pipeline** for predicting chest cancer using **d
 <p align="center">
   <img src="images/Screenshot (61).png" alt="Sample Prediction" width="500"/>
 </p>
-
+In the above screenshot, I uploaded an normal chest image and the model predicted normal.
 
 ## 📂 Project Structure
 
