@@ -1,6 +1,6 @@
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
-📋 Abstract
+## Abstract
 Early detection of chest cancer is critical for patient survival, yet manual radiological assessment is prone to inter-observer variability. This project presents a reproducible, production-grade deep learning pipeline for chest cancer classification. By integrating Transfer Learning (VGG16) with MLOps frameworks (DVC, MLflow), this work addresses the "reproducibility crisis" in medical AI, providing a transparent and version-controlled environment from data ingestion to cloud deployment.
 ---
 
